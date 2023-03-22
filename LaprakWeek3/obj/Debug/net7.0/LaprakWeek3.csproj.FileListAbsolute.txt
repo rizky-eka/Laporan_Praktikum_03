@@ -1,0 +1,15 @@
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/bin/Debug/net7.0/LaprakWeek3
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/bin/Debug/net7.0/LaprakWeek3.deps.json
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/bin/Debug/net7.0/LaprakWeek3.runtimeconfig.json
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/bin/Debug/net7.0/LaprakWeek3.dll
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/bin/Debug/net7.0/LaprakWeek3.pdb
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.csproj.AssemblyReference.cache
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.AssemblyInfoInputs.cache
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.AssemblyInfo.cs
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.csproj.CoreCompileInputs.cache
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.dll
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/refint/LaprakWeek3.dll
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.pdb
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/LaprakWeek3.genruntimeconfig.cache
+/Users/rizky28eka/Development/kuliaj/pemrograman/LaprakWeek3/LaprakWeek3/obj/Debug/net7.0/ref/LaprakWeek3.dll
