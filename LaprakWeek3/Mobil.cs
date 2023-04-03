@@ -1,29 +1,80 @@
 ﻿using System;
 namespace LaporanPraktikum_3
 {
-    public class Mobil
+    internal class mobil
     {
-        public string warna;
-        public int JumlahPintu;
-        public string merek;
-        public string model;
-        public int TahunKeluar;
+        // Field
+        private string _warna { get; set; }
+        private int _jumlah_pintu { get; set; }
+        private string _merek{ get; set; }
+        private string _model { get; set; }
+        private int _tahun_keluaran { get; set; }
 
+        // properties
+        public string warna
+        {
+            get
+            {
+                return _warna;
+            } set
+            {
+                _warna = value;
+            }
+        }
+        public int jumlah_pintu {
+            get
+            {
+                return _jumlah_pintu;
+            } set
+            {
+                jumlah_pintu = value;
+            }
+        }
+        public string merek
+        {
+            get
+            {
+                return _merek;
+            } set
+            {
+                _merek = value;
+            }
+        }
+        public string model
+        {
+            get
+            {
+                return _model;
+            } set
+            {
+                _model = value;
+            }
+        }
+        public int tahun_keluaran
+        {
+            get
+            {
+                return _tahun_keluaran;
 
+            } set
+            {
+                _tahun_keluaran = value;
+            }
+        }
+        // method
         public void Gas(int kecepatan)
         {
-            Console.WriteLine("Mobil {0} berjalan dengan kecepatan {1}", model, kecepatan);
+            Console.WriteLine("Mobil {0} berjalan dengan kecepatan {1} km/jam", model, kecepatan);
+            Console.ReadKey();
         }
-
-        public void Klakson(string suara)
+        public void klakson(string suara)
         {
-            Console.WriteLine("{0}", suara);
-        }
-
-        public void TampilkanInfo()
+            Console.WriteLine("0", suara);
+            Console.ReadKey();
+        }public void TampilkanInfo()
         {
-            Console.WriteLine("Mobil saya berwana {0}, merek {1} model {2} keluaran tahun {3} dengan jumlah pintu sebanyak {4}", warna, merek, model, TahunKeluar, JumlahPintu);
+            Console.WriteLine("Mobil saya berwarna {0}, merek {1}, model {2} keluaran tahun {3) dengan jumlah pintu sebanyak {4}", warna, merek, model, tahun_keluaran, jumlah_pintu);
+            Console.ReadKey();
         }
-
     }
 }

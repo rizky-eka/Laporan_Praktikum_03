@@ -2,39 +2,23 @@
 namespace LaporanPraktikum_3
 
 {
-    public class MobilApp
+    internal class MobilApp
     {
-        static public void Main(String[] args)
+        static void Main(string[] args)
         {
-            Mobil mobil1 = new Mobil();
-            mobil1.warna = "Purple";
-            mobil1.JumlahPintu = 2;
-            mobil1.merek = "Angkot";
-            mobil1.model = "Angkutan Umum";
-            mobil1.TahunKeluar = 1945;
+            mobil mobill = new mobil();
+            mobil mobil2 = new mobil();
+            mobil mobil3 = new mobil();
 
-            mobil1.Gas(300);
-            mobil1.Klakson("DJ Angkot");
-            mobil1.TampilkanInfo();
+            mobill.warna = "silver";
+            mobill.jumlah_pintu = 4;
+            mobill.merek = "Avanza";
+            mobill.model = "MPV";
+            mobill.tahun_keluaran = 2019;
 
-            Console.WriteLine("\n");
-            Console.WriteLine("===================");
-
-            Mobil mobil2 = new Mobil();
-            mobil2.warna = "Pink";
-            mobil2.JumlahPintu = 4;
-            mobil2.merek = "Taxi";
-            mobil2.model = "Angkutan Umum";
-            mobil2.TahunKeluar = 2030;
-
-            mobil2.Gas(200);
-            mobil2.Klakson("Tetttt tettttt");
-            mobil2.TampilkanInfo();
-
-
-            Console.ReadKey();
-
-
-        }
+            mobill.Gas(180);
+            mobill.klakson("Klakson udara");
+            mobill.TampilkanInfo();
+        } 
     }
 }

@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{0C7B60B8-3357-4F8B-9F57-078F26671290}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LaprakWeek3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LaprakWeek3/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LaprakWeek3/Mobil.cs">
     <Files>
-      <File FileName="LaprakWeek3/Program.cs" Line="15" Column="1" />
-      <File FileName="LaprakWeek3/Mobil.cs" Line="9" Column="12" />
+      <File FileName="LaprakWeek3/Mobil.cs" Line="9" Column="15" IsPinned="True" />
+      <File FileName="LaprakWeek3/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LaprakWeek3" expanded="True">
             <Node name="LaprakWeek3" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Mobil.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LaprakWeek3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
